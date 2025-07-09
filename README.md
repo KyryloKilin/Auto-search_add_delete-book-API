@@ -14,7 +14,8 @@ Auto search_add_delete book + API — это веб-приложение для 
 
 ## Скриншоты
 
-![Главная](./screenshots/main.png)
+![image](https://github.com/user-attachments/assets/81b34eb0-6656-45d3-adb0-829891c5572d)
+
 
 ## Демо
 
@@ -24,18 +25,9 @@ Auto search_add_delete book + API — это веб-приложение для 
 
 - HTML, CSS, JavaScript
 
----
 
-## Как опубликовать проект через GitHub Pages
 
-1. Сделай push последних изменений на GitHub.
-2. Открой настройки репозитория —> Pages —> Source: main/root —> Save.
-3. Скопируй ссылку, которая появится для GitHub Pages.
-4. Проверь, что твой проект открывается по этой ссылке.
 
----
 
-## Контакты
 
-Telegram: [@kyrylokilin](https://t.me/kyrylokilin)
 
